@@ -6,7 +6,7 @@
 En este proyecto decidi implementar un algoritmo de Q-learning en Python para un robot que recorre un almacén con 11 posibles posiciones identificadas con las letras de la A a la L. Utilicé la ecuación de Bellman y el proceso de decisión de Markov para generar el código necesario.
 
 <br/>
-<img align='center' alt="Fuente" src="https://raw.githubusercontent.com/BonfantiMatias/Robot_Almacen/main/Recursos/Almacen.png/>
+<img align='center' alt="Fuente" src="https://raw.githubusercontent.com/BonfantiMatias/Robot_Almacen/main/Recursos/Almacen.png"/>
 <br/>
 
 
