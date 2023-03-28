@@ -1,4 +1,4 @@
-# Q-Learning.
+# Reinforcement Learning.
 <br/>
 <img align='center' alt="Fuente" src="https://raw.githubusercontent.com/BonfantiMatias/Robot_Almacen/main/Recursos/istockphoto-1314882649-612x612.jpg"/>
 <br/>
